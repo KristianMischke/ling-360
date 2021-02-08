@@ -1,0 +1,24 @@
+<div class="brand">
+    <h1><a href="/index.html">LING 360</a></h1>
+</div>
+<a class="burger-nav"></a>
+
+<div id="input-recalls-nav"><h3><a>Input Recalls</a></h3>
+   <ul class="nav-bar">
+   {% for post in site.input-recalls %}
+   {% assign tabUrl = '/' | append: post.url %}
+      <li class="nav-item {% if page.url == tabUrl %}active{% else %}{% if page.url == '/' and tabUrl == '/index.html' %}active{% endif %}{% endif %}">
+         <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+   {% endfor %}
+   </ul>
+</div>
+<div id="labs-nav"><h3><a>Labs</a></h3>
+   <ul class="nav-bar">
+   {% for post in site.labs %}
+      <li class="nav-item {% if page.url == tabUrl %}active{% else %}{% if page.url == '/' and tabUrl == '/index.html' %}active{% endif %}{% endif %}"></li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+   {% endfor %}
+   </ul>
+</div>
