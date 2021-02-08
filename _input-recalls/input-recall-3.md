@@ -3,6 +3,10 @@ layout: post
 title:  "Input Recall 3 - Variants Percieved & Produced"
 categories:
 ---
+## Input
+- Read '[Sociophonetics](https://drive.google.com/file/d/1XV8mdz4zCxz64I4lCM8bwfcxYDF1Nv9V/view?usp=sharing)' to get a background on acoustic phonetics and vocabulary we will use like formants, F1, F2, etc.
+
+## Recall
 This week we read about how different social and other contexts affect how language is produced and perceived. There are many contexts that change the way someone speaks. Different registers (i.e. social contexts) with constituents may change how formal one's speech appears as compared to speaking with other peers. As discussed last time geolects also play a large role in the sounds of one's speech. Different people may consider the same sounds to have different connotations.
 
 The reading presented the idea that as people age their language doesn't change much—and thus you can compare the older generation's language to the younger generation to observe how it changes... but then went on to show that this is not the case and that even the Queen of England has had changes in her vowel productions over time.

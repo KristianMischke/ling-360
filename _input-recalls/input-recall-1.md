@@ -3,6 +3,16 @@ layout: post
 title:  "Input Recall 1 - Baltimore Speak"
 categories:
 ---
+## Input
+- Watch "[Sociolinguistics: Crash Course Linguistics #7](https://www.youtube.com/watch?v=of4XzrbkknM)"
+- Read "[Hold up, ‘Hon’: Baltimore’s black vernacular youthful, dynamic if less recognized than ‘Bawlmerese.’](https://www.baltimoresun.com/features/baltimore-insider/bs-lt-baltimore-slang-20170209-story.html)" by Brittany Britto
+- Read about Baltimore English: [https://en.wikipedia.org/wiki/Baltimore_accent](https://en.wikipedia.org/wiki/Baltimore_accent)
+- Listen to the podcast: "[Baldamore, Curry, and Dug](https://baltimorelanguage.com/baldamor-curry-and-dug-podcast/)" by Inte’a DeShields (podcast)
+- Read about mid Atlantic English: [https://www.ling.upenn.edu/phono_atlas/Atlas_chapters/Ch17_2nd.rev.pdf](https://www.ling.upenn.edu/phono_atlas/Atlas_chapters/Ch17_2nd.rev.pdf)
+- Read about varieties of English in the United States: [https://www.ling.upenn.edu/phono_atlas/NationalMap/NationalMap.html](https://www.ling.upenn.edu/phono_atlas/NationalMap/NationalMap.html)
+- Review IPA: [IPA/Phonetics apps for phones](https://www.superlinguo.com/post/130017106104/ipaphonetics-apps-for-phones)
+
+## Recall
 This week was an introduction to Sociolinguistics by looking at specific variations of language used in the Baltimore area. The main difference from the traditional pronunciation of 'Baltimore' were the 'Bawlmer' and 'Baldmore' variations. The group of locals who use 'Bawlmer' are more likely to call someone 'hon'. This variation of language is more typical of white blue-collar citizens, whereas the 'Baldmore' variation with interrogative 3PL words like 'yo' is more common to African American locals.
 
 The first class also has these common linguistic traits:

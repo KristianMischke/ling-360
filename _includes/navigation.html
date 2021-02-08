@@ -16,7 +16,7 @@
 <div id="labs-nav"><h3><a>Labs</a></h3>
    <ul class="nav-bar">
    {% for post in site.labs %}
-      <li class="nav-item {% if page.url == tabUrl %}active{% else %}{% if page.url == '/' and tabUrl == '/index.html' %}active{% endif %}{% endif %}"></li>
+      <li class="nav-item {% if page.url == tabUrl %}active{% else %}{% if page.url == '/' and tabUrl == '/index.html' %}active{% endif %}{% endif %}">
          <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
       </li>
    {% endfor %}
