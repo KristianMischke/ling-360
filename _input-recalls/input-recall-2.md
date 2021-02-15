@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Input Recall 2 - English Geolects"
+title:  "2 - English Geolects"
 categories:
 ---
 ## Input

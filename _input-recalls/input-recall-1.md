@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Input Recall 1 - Baltimore Speak"
+title:  "1 - Baltimore Speak"
 categories:
 ---
 ## Input

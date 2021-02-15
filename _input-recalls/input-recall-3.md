@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Input Recall 3 - Variants Percieved & Produced"
+title:  "3 - Variants Percieved & Produced"
 categories:
 ---
 ## Input
