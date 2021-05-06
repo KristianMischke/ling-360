@@ -22,3 +22,16 @@
    {% endfor %}
    </ul>
 </div>
+<div id="research-nav"><h3><a>Research Proposal</a></h3>
+   <ul class="nav-bar">
+      <li class="nav-item {% if page.url == tabUrl %}active{% else %}{% if page.url == '/' and tabUrl == '/index.html' %}active{% endif %}{% endif %}">
+         <a href="{{ site.baseurl }}/research-question">Step 1 - Questions</a>
+      </li>
+<!--      <li class="nav-item {% if page.url == tabUrl %}active{% else %}{% if page.url == '/' and tabUrl == '/index.html' %}active{% endif %}{% endif %}">-->
+<!--         <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>-->
+<!--      </li>-->
+<!--      <li class="nav-item {% if page.url == tabUrl %}active{% else %}{% if page.url == '/' and tabUrl == '/index.html' %}active{% endif %}{% endif %}">-->
+<!--         <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>-->
+<!--      </li>-->
+   </ul>
+</div>
